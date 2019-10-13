@@ -1,0 +1,2 @@
+# django
+pratice_git
